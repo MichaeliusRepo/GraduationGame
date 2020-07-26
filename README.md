@@ -9,7 +9,7 @@ More info at: https://choosealicense.com/no-permission/#for-users
 # To Ashes
 ### by ![Oblongata Games](https://github.com/DADIU-2019-Team-4)
 
-This game was developed in C# with Unity by a team of 16 members. *To Ashes* is an 3D puzzle-adventure Android game ![available on Google Play](https://play.google.com/store/apps/details?id=dk.dadiu.ToAshes).
+This game was developed in C# with Unity by a team of 16 members. *To Ashes* is an 3D puzzle-adventure for Android ![available on Google Play](https://play.google.com/store/apps/details?id=dk.dadiu.ToAshes).
 
 *To Ashes* is a Danish student game produced by Oblongata Games at ![DADIU](http://www.dadiu.dk/to-ashes) 2019.
 
